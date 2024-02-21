@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Producer-Consumer, DataBus and etc..md",
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Producer-Consumer, DataBus and etc..md",
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Producer-Consumer, DataBus and etc..md",
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Producer-Consumer, DataBus and etc..md"
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md"
               }
             }
           },
@@ -150,23 +150,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a4e8874dabb498e3",
+  "active": "0359aa8ab738878e",
   "lastOpenFiles": [
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/RabbitMQ. Введение.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/RabbitMQ. Exchanges.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/RabbitMQ. Очереди.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/RabbitMQ. Queue optional arguments.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ",
+    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/3. RabbitMQ. Exchanges.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/4. RabbitMQ. Другая информация и термины.md",
     "DataBus, AMQP, RabbitMQ, MassTransit/Введение/AMQP.md",
     "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Producer-Consumer, DataBus and etc..md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/5. RabbitMQ. Queue optional arguments.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/1. RabbitMQ. Введение.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/2. RabbitMQ. Очереди.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ",
     "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Pictures",
     "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Pictures/producer-consumer-queue schema.png",
     "Без названия.canvas",
