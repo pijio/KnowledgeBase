@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "",
+      "query": "file:MassTransit",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -33,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 287,
   "scale": 0.7132754626224427,
-  "close": false
+  "close": true
 }

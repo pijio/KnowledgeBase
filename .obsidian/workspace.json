@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/3. MassTransit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/3. MassTransit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/3. MassTransit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md"
+                "file": "DataBus, AMQP, RabbitMQ, MassTransit/3. MassTransit.md"
               }
             }
           },
@@ -158,21 +158,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0359aa8ab738878e",
+  "active": "a4e8874dabb498e3",
   "lastOpenFiles": [
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/3. RabbitMQ. Exchanges.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/MassTransit.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/4. RabbitMQ. Другая информация и термины.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/Введение/AMQP.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Producer-Consumer, DataBus and etc..md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/5. RabbitMQ. Queue optional arguments.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/1. RabbitMQ. Введение.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ/2. RabbitMQ. Очереди.md",
-    "DataBus, AMQP, RabbitMQ, MassTransit/RabbitMQ",
-    "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Pictures",
-    "DataBus, AMQP, RabbitMQ, MassTransit/Введение/Pictures/producer-consumer-queue schema.png",
+    "DataBus, AMQP, RabbitMQ, MassTransit/2. RabbitMQ/2. RabbitMQ. Очереди.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/3. MassTransit.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/2. RabbitMQ/3. RabbitMQ. Exchanges.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/2. RabbitMQ/4. RabbitMQ. Другая информация и термины.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/1. Введение/AMQP.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/1. Введение/Producer-Consumer, DataBus and etc..md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/2. RabbitMQ/5. RabbitMQ. Queue optional arguments.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/2. RabbitMQ/1. RabbitMQ. Введение.md",
+    "DataBus, AMQP, RabbitMQ, MassTransit/2. RabbitMQ",
+    "DataBus, AMQP, RabbitMQ, MassTransit/1. Введение/Pictures",
+    "DataBus, AMQP, RabbitMQ, MassTransit/1. Введение/Pictures/producer-consumer-queue schema.png",
     "Без названия.canvas",
-    "DataBus, AMQP, RabbitMQ, MassTransit/Введение",
+    "DataBus, AMQP, RabbitMQ, MassTransit/1. Введение",
     "DataBus, AMQP, RabbitMQ, MassTransit",
     "Без названия.md",
     "Parallel programming/Лекция №5/Лекция.md",
